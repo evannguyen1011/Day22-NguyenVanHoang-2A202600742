@@ -26,5 +26,5 @@ env/
 # macOS
 .DS_Store
 
-# Lab outputs (không commit, chỉ nộp evidence/)
-data/ragas_report.json
+# Lab outputs
+# data/ragas_report.json is a required deliverable — do NOT ignore it
